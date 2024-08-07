@@ -49,3 +49,5 @@ collections:
     sort_by: lesson
     output: true
     permalink: /:collection/:path/
+
+page_width: 1000px
